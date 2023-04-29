@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/homeworkReviewClasses" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/javaHw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/methodHomeWork" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/project01" vcs="Git" />
   </component>
 </project>
